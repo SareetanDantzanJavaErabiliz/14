@@ -3,5 +3,5 @@ Batzuetan, beste makina batean dagoen klase bateko metodo batzuk erabiltzea inte
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- RMIBezeroa: . orr.
-- RMIZerbitzaria: . orr.
+- RMIBezeroa: 386. orr.
+- RMIZerbitzaria: 386. orr.
